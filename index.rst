@@ -1,10 +1,10 @@
-Sylius Documentation
+Sylius Документация
 ====================
 
 .. image:: /_images/logo.png
-   :alt:   Sylius Welcome Page
+   :alt:   Sylius Добро пожаловать
 
-`Sylius`_ is a modern e-commerce solution for PHP, based on
+`Sylius`_ is современный e-commerce фреймфорк на основе
 `Symfony2 Framework`_.
 
 .. note::
