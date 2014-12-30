@@ -3,7 +3,7 @@ Sylius
 
 Modern ecommerce solution for Symfony2.
 
-**This is official documentation repository**, available on [**docs.sylius.org**](http://docs.sylius.org). 
+**"Это перевод документации**, оригинал доступен по адресу [**docs.sylius.org**](http://docs.sylius.org). 
 
 Hosted by [readthedocs.org](http://readthedocs.org).
 
